@@ -1,0 +1,19 @@
+c:\users\şule kiliç\documents\visual studio 2017\Projects\otoparkOtomasyon2\otoparkOtomasyon2\bin\Debug\otoparkOtomasyon2.exe.config
+c:\users\şule kiliç\documents\visual studio 2017\Projects\otoparkOtomasyon2\otoparkOtomasyon2\bin\Debug\otoparkOtomasyon2.exe
+c:\users\şule kiliç\documents\visual studio 2017\Projects\otoparkOtomasyon2\otoparkOtomasyon2\bin\Debug\otoparkOtomasyon2.pdb
+c:\users\şule kiliç\documents\visual studio 2017\Projects\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.csprojResolveAssemblyReference.cache
+c:\users\şule kiliç\documents\visual studio 2017\Projects\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.Form1.resources
+c:\users\şule kiliç\documents\visual studio 2017\Projects\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.Properties.Resources.resources
+c:\users\şule kiliç\documents\visual studio 2017\Projects\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.csproj.GenerateResource.Cache
+c:\users\şule kiliç\documents\visual studio 2017\Projects\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.csproj.CoreCompileInputs.cache
+c:\users\şule kiliç\documents\visual studio 2017\Projects\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.exe
+c:\users\şule kiliç\documents\visual studio 2017\Projects\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.pdb
+F:\otoparkOtomasyon2\otoparkOtomasyon2\bin\Debug\otoparkOtomasyon2.exe.config
+F:\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.exe
+F:\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.pdb
+F:\otoparkOtomasyon2\otoparkOtomasyon2\bin\Debug\otoparkOtomasyon2.exe
+F:\otoparkOtomasyon2\otoparkOtomasyon2\bin\Debug\otoparkOtomasyon2.pdb
+F:\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.csprojResolveAssemblyReference.cache
+F:\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.Form1.resources
+F:\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.Properties.Resources.resources
+F:\otoparkOtomasyon2\otoparkOtomasyon2\obj\Debug\otoparkOtomasyon2.csproj.GenerateResource.Cache
